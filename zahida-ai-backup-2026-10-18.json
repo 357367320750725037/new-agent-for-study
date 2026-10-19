@@ -1,0 +1,1488 @@
+{
+  "version": "1.0",
+  "exportedAt": "2026-10-18T15:28:27.018Z",
+  "clients": [
+    {
+      "name": "Ashweena",
+      "industry": "beauticare",
+      "contactPerson": "sophi vence",
+      "email": "",
+      "phone": "",
+      "website": "",
+      "monthlyRetainer": 5000,
+      "monthlyAdSpend": 15000,
+      "tier": "Growth",
+      "status": "Active",
+      "assignedLead": "Ayesha Tariq",
+      "tags": [
+        "DTC",
+        "Meta Ads"
+      ],
+      "memory": {
+        "industry": "beauticare",
+        "targetAudience": "Modern consumers aged 25-45",
+        "location": "Global / North America",
+        "primaryGoal": "Scale qualified customer conversions",
+        "mainPlatform": "Meta Ads",
+        "secondaryPlatform": "Google Search",
+        "brandTone": "Premium, authoritative, confident",
+        "brandColors": [
+          "#0F172A",
+          "#6366F1"
+        ],
+        "monthlyAdBudget": 15000,
+        "currency": "USD",
+        "keyDifferentiators": [
+          "High quality craftsmanship",
+          "Fast delivery"
+        ],
+        "competitors": [
+          "Market Leader A",
+          "Direct Competitor B"
+        ],
+        "prohibitedWords": [
+          "Cheap",
+          "Discount code"
+        ],
+        "notes": "New client onboarded during Phase 1 sprint."
+      },
+      "id": "cli-5735",
+      "healthScore": 85,
+      "blendedRoas": 3.5,
+      "activeCampaignsCount": 0,
+      "joinedDate": "2026-10-10"
+    },
+    {
+      "id": "cli-001",
+      "name": "Lumina Skin Co",
+      "logoUrl": "/src/assets/images/avatar_client_lumina_1791562757228.jpg",
+      "industry": "Luxury Skincare & Clean Beauty",
+      "contactPerson": "Sophie Vance",
+      "email": "sophie@luminaskin.co",
+      "phone": "+1 (415) 890-2134",
+      "website": "https://luminaskin.co",
+      "monthlyRetainer": 6500,
+      "monthlyAdSpend": 24000,
+      "tier": "Enterprise",
+      "healthScore": 78,
+      "status": "Active",
+      "assignedLead": "Ayesha Tariq",
+      "activeCampaignsCount": 4,
+      "blendedRoas": 3.4,
+      "tags": [
+        "E-Commerce",
+        "DTC",
+        "Meta Ads",
+        "Email Flows"
+      ],
+      "joinedDate": "2025-04-12",
+      "memory": {
+        "industry": "Luxury Skincare",
+        "targetAudience": "Women 24–45 with focus on clean ingredients, dermatologist-backed skincare, conscious living",
+        "location": "United States & UK",
+        "primaryGoal": "Scale online sales while maintaining blended ROAS ≥ 3.5x",
+        "mainPlatform": "Instagram & Meta Ads",
+        "secondaryPlatform": "TikTok & Klaviyo Email",
+        "brandTone": "Refined, scientific yet sensory, modern calm, empathetic",
+        "brandColors": [
+          "#E6D7CE",
+          "#2D3748",
+          "#8A6D5E"
+        ],
+        "monthlyAdBudget": 24000,
+        "currency": "USD",
+        "keyDifferentiators": [
+          "Bio-fermented active botanicals",
+          "Zero synthetic fragrance",
+          "Clinical 28-day barrier repair study"
+        ],
+        "competitors": [
+          "True Botanicals",
+          "Biossance",
+          "Drunk Elephant"
+        ],
+        "prohibitedWords": [
+          "Miracle cure",
+          "Instant magic",
+          "Cheap",
+          "Bargain"
+        ],
+        "notes": "Creative fatigue on core hero serum hook. Requires rotation of UGC creator unboxings and dermatologist quotes."
+      }
+    },
+    {
+      "id": "cli-002",
+      "name": "Apex Fintech Solutions",
+      "logoUrl": "/src/assets/images/avatar_client_apex_1791562768952.jpg",
+      "industry": "B2B Fintech & Treasury API",
+      "contactPerson": "David Chen",
+      "email": "d.chen@apexfintech.io",
+      "phone": "+1 (212) 555-0189",
+      "website": "https://apexfintech.io",
+      "monthlyRetainer": 9500,
+      "monthlyAdSpend": 38000,
+      "tier": "Enterprise",
+      "healthScore": 92,
+      "status": "Active",
+      "assignedLead": "Bilal Farooq",
+      "activeCampaignsCount": 3,
+      "blendedRoas": 4.8,
+      "tags": [
+        "B2B",
+        "SaaS",
+        "Google Search",
+        "LinkedIn"
+      ],
+      "joinedDate": "2025-01-18",
+      "memory": {
+        "industry": "B2B Fintech & Payments",
+        "targetAudience": "CFOs, VP of Finance, Head of Treasury at mid-market tech firms ($20M-$200M ARR)",
+        "location": "North America",
+        "primaryGoal": "Book qualified enterprise demo discovery calls",
+        "mainPlatform": "LinkedIn Ads & Organic Thought Leadership",
+        "secondaryPlatform": "Google High-Intent Search",
+        "brandTone": "Authoritative, precise, institutional security, zero fluff",
+        "brandColors": [
+          "#0A2540",
+          "#635BFF",
+          "#00D4B2"
+        ],
+        "monthlyAdBudget": 38000,
+        "currency": "USD",
+        "keyDifferentiators": [
+          "Real-time multi-bank liquidity consolidation",
+          "SOC2 Type II certified",
+          "Sub-second wire settlements"
+        ],
+        "competitors": [
+          "Modern Treasury",
+          "Trovata",
+          "Kyriba"
+        ],
+        "prohibitedWords": [
+          "Crypto moon",
+          "Hassle-free",
+          "Easy peasy"
+        ],
+        "notes": "Strong performance on Google Search for \"automated corporate treasury software\". High demo show-up rate."
+      }
+    },
+    {
+      "id": "cli-003",
+      "name": "Nordic Roastery Co",
+      "industry": "Artisanal Specialty Coffee",
+      "contactPerson": "Henrik Lindqvist",
+      "email": "henrik@nordicroastery.com",
+      "phone": "+46 8 123 4567",
+      "website": "https://nordicroastery.com",
+      "monthlyRetainer": 4800,
+      "monthlyAdSpend": 15000,
+      "tier": "Growth",
+      "healthScore": 96,
+      "status": "Active",
+      "assignedLead": "Sara Malik",
+      "activeCampaignsCount": 3,
+      "blendedRoas": 5.2,
+      "tags": [
+        "Subscription",
+        "Specialty Food",
+        "Google Ads",
+        "Meta"
+      ],
+      "joinedDate": "2025-06-10",
+      "memory": {
+        "industry": "Specialty Coffee Subscription",
+        "targetAudience": "Coffee connoisseurs, home baristas, remote tech professionals aged 25-50",
+        "location": "Northern Europe & North America shipping",
+        "primaryGoal": "Increase recurring monthly subscription members",
+        "mainPlatform": "Meta Ads & Instagram Reels",
+        "secondaryPlatform": "Google Shopping & Search",
+        "brandTone": "Minimalist Scandinavian, warm craftsmanship, transparent origin stories",
+        "brandColors": [
+          "#1C1917",
+          "#E7E5E4",
+          "#9A3412"
+        ],
+        "monthlyAdBudget": 15000,
+        "currency": "USD",
+        "keyDifferentiators": [
+          "Direct trade with Ethiopian & Colombian smallholders",
+          "Roasted fresh within 48 hours of dispatch",
+          "100% compostable nitrogen-flushed valve bags"
+        ],
+        "competitors": [
+          "Onyx Coffee Lab",
+          "Blue Bottle Coffee",
+          "La Cabra"
+        ],
+        "prohibitedWords": [
+          "Instant",
+          "Super cheap",
+          "Standard brew"
+        ],
+        "notes": "Subscription LTV is exceeding 7 months. Scaled budget headroom by 25% recommended."
+      }
+    },
+    {
+      "id": "cli-004",
+      "name": "Solstice Health Clinic",
+      "industry": "Integrative Medicine & Longevity",
+      "contactPerson": "Dr. Elena Rostova",
+      "email": "contact@solsticemed.com",
+      "phone": "+1 (305) 740-9281",
+      "website": "https://solsticemed.com",
+      "monthlyRetainer": 5500,
+      "monthlyAdSpend": 18000,
+      "tier": "Growth",
+      "healthScore": 68,
+      "status": "At Risk",
+      "assignedLead": "Tariq Aziz",
+      "activeCampaignsCount": 2,
+      "blendedRoas": 2.9,
+      "tags": [
+        "Healthcare",
+        "Local SEO",
+        "High-Ticket",
+        "Google Ads"
+      ],
+      "joinedDate": "2025-08-01",
+      "memory": {
+        "industry": "Longevity & Executive Health Assessments",
+        "targetAudience": "High-net-worth executives, entrepreneurs, health optimizers aged 35-65",
+        "location": "Miami, FL & Palm Beach",
+        "primaryGoal": "Book $3,500 comprehensive health baseline scans",
+        "mainPlatform": "Google Local Ads & Targeted Meta",
+        "secondaryPlatform": "Local Executive Referral Networks & SEO",
+        "brandTone": "Scientific, discrete, luxury wellness, clinical excellence",
+        "brandColors": [
+          "#042F2E",
+          "#14B8A6",
+          "#F0FDFA"
+        ],
+        "monthlyAdBudget": 18000,
+        "currency": "USD",
+        "keyDifferentiators": [
+          "Full body 3T MRI screening",
+          "Genomic biomarker mapping",
+          "Dedicated physician concierge"
+        ],
+        "competitors": [
+          "Prenuvo",
+          "Fountain Life",
+          "Next Health"
+        ],
+        "prohibitedWords": [
+          "Alternative medicine",
+          "Miracle detox",
+          "Cure-all"
+        ],
+        "notes": "Local landing page bounce rate spiked to 61%. Redesign needed for mobile booking widget."
+      }
+    },
+    {
+      "id": "cli-005",
+      "name": "Velox Logistics & Freight",
+      "industry": "Supply Chain & Cold Chain Transport",
+      "contactPerson": "Marcus Brody",
+      "email": "m.brody@veloxfreight.com",
+      "phone": "+1 (312) 440-1920",
+      "website": "https://veloxfreight.com",
+      "monthlyRetainer": 7200,
+      "monthlyAdSpend": 22000,
+      "tier": "Enterprise",
+      "healthScore": 89,
+      "status": "Active",
+      "assignedLead": "Bilal Farooq",
+      "activeCampaignsCount": 3,
+      "blendedRoas": 4.1,
+      "tags": [
+        "Industrial",
+        "B2B Lead Gen",
+        "Google Search",
+        "LinkedIn"
+      ],
+      "joinedDate": "2025-03-05",
+      "memory": {
+        "industry": "Freight Logistics & Cold Storage",
+        "targetAudience": "Logistics directors, procurement heads in pharmaceutical and food manufacturing",
+        "location": "Midwest & East Coast USA",
+        "primaryGoal": "Secure high-volume dedicated lane contracts",
+        "mainPlatform": "Google Search for high-intent freight lanes",
+        "secondaryPlatform": "LinkedIn account-based marketing",
+        "brandTone": "Reliable, engineering-minded, punctual, safety-first",
+        "brandColors": [
+          "#0F172A",
+          "#2563EB",
+          "#64748B"
+        ],
+        "monthlyAdBudget": 22000,
+        "currency": "USD",
+        "keyDifferentiators": [
+          "99.8% on-time refrigerated temperature compliance",
+          "Real-time IoT telematics portal for cargo tracking",
+          "24/7 dedicated dispatch operations"
+        ],
+        "competitors": [
+          "CH Robinson",
+          "Echo Global Logistics",
+          "Coyote Logistics"
+        ],
+        "prohibitedWords": [
+          "Cheap shipping",
+          "Slow truck"
+        ],
+        "notes": "Consistently hitting target CPL under $85 for enterprise transport RFPs."
+      }
+    },
+    {
+      "id": "cli-006",
+      "name": "Aurelia Fine Jewels",
+      "industry": "Luxury Bespoke Jewelry",
+      "contactPerson": "Camilla Laurent",
+      "email": "camilla@aureliajewels.co",
+      "phone": "+44 20 7946 0912",
+      "website": "https://aureliajewels.co",
+      "monthlyRetainer": 5200,
+      "monthlyAdSpend": 16000,
+      "tier": "Growth",
+      "healthScore": 84,
+      "status": "Active",
+      "assignedLead": "Sara Malik",
+      "activeCampaignsCount": 2,
+      "blendedRoas": 3.9,
+      "tags": [
+        "Luxury Goods",
+        "Instagram Shopping",
+        "Pinterest",
+        "Editorial"
+      ],
+      "joinedDate": "2025-07-22",
+      "memory": {
+        "industry": "Fine Bespoke Fine Jewelry",
+        "targetAudience": "Luxury bridal buyers, self-gifting professionals, fine jewelry collectors",
+        "location": "London, UK & International Shipping",
+        "primaryGoal": "Drive custom consultation appointments and fine ring sales",
+        "mainPlatform": "Instagram & Pinterest Visual Discovery",
+        "secondaryPlatform": "Meta Retargeting & VIP Newsletter",
+        "brandTone": "Timeless luxury, romantic, heirloom artistry, understated glamour",
+        "brandColors": [
+          "#18181B",
+          "#D4AF37",
+          "#FAF5FF"
+        ],
+        "monthlyAdBudget": 16000,
+        "currency": "GBP",
+        "keyDifferentiators": [
+          "Ethically sourced conflict-free diamonds",
+          "100% recycled 18k yellow and white gold",
+          "Handcrafted in Mayfair, London workshop"
+        ],
+        "competitors": [
+          "Catbird",
+          "Mejuri Fine",
+          "Jessica McCormack"
+        ],
+        "prohibitedWords": [
+          "Bargain diamond",
+          "Affordable cubic zirconia"
+        ],
+        "notes": "Upcoming Bridal Fashion Week campaign scheduled for next month."
+      }
+    }
+  ],
+  "leads": [
+    {
+      "id": "lead-101",
+      "name": "Kashif Mehmood",
+      "company": "Zaytoun Natural Oils",
+      "email": "kashif@zaytounoils.com",
+      "phone": "+92 300 8219450",
+      "source": "Referral",
+      "serviceInterest": "Full DTC Meta Ads & Omnichannel Strategy",
+      "budgetEst": 8500,
+      "score": 94,
+      "scoreTier": "HOT",
+      "scoreExplanation": "Referred by existing client Lumina Skin Co. Established monthly revenue ($120k MRR), clear budget allocated, decision maker directly in contact.",
+      "status": "Proposal",
+      "lastContactDate": "2026-10-07",
+      "nextAction": "Send updated 3-month growth proposal with blended ROAS target 3.8x.",
+      "notes": "Looking to expand distribution into GCC and North American markets."
+    },
+    {
+      "id": "lead-102",
+      "name": "Sarah Jenkins",
+      "company": "Verve Athletic Apparel",
+      "email": "sjenkins@verveathletic.com",
+      "phone": "+1 (512) 670-3321",
+      "source": "Inbound Organic",
+      "serviceInterest": "Performance Media Buying & Creative Studio",
+      "budgetEst": 12000,
+      "score": 88,
+      "scoreTier": "HOT",
+      "scoreExplanation": "High monthly ad budget intent ($30k+ ad spend), strong organic brand presence, submitted full agency intake audit request.",
+      "status": "Qualified",
+      "lastContactDate": "2026-10-08",
+      "nextAction": "Schedule 30-minute deep-dive strategy audit with Zahida.",
+      "notes": "Current agency is not providing creative iteration speed or transparent weekly reporting."
+    },
+    {
+      "id": "lead-103",
+      "name": "Julian Montgomery",
+      "company": "Kestrel Cloud Security",
+      "email": "j.montgomery@kestrelsec.io",
+      "phone": "+1 (415) 302-8841",
+      "source": "LinkedIn",
+      "serviceInterest": "B2B LinkedIn ABM & High-Intent Google Search",
+      "budgetEst": 11000,
+      "score": 82,
+      "scoreTier": "HOT",
+      "scoreExplanation": "Series A funded cyber-security startup, urgent need for qualified enterprise pipeline before Q4 board review.",
+      "status": "Negotiation",
+      "lastContactDate": "2026-10-06",
+      "nextAction": "Final contract terms review with legal counsel.",
+      "notes": "Requested Zahida personally attend monthly strategy steering sessions."
+    },
+    {
+      "id": "lead-104",
+      "name": "Amina Tariq",
+      "company": "Nour Home Decor",
+      "email": "amina@nourdecor.pk",
+      "phone": "+92 321 4455667",
+      "source": "Meta Ad",
+      "serviceInterest": "Instagram Reels Content Creation & Ad Management",
+      "budgetEst": 4000,
+      "score": 64,
+      "scoreTier": "WARM",
+      "scoreExplanation": "Growing brand with good visual appeal, but founders still evaluating internal marketing hire vs agency retainer.",
+      "status": "Contacted",
+      "lastContactDate": "2026-10-05",
+      "nextAction": "Follow up with agency case study showing 4.2x ROAS in luxury home goods.",
+      "notes": "Needs guidance on minimum ad budget requirements for effective Meta testing."
+    },
+    {
+      "id": "lead-105",
+      "name": "Brian O’Connor",
+      "company": "Summit Solar Solutions",
+      "email": "brian@summitsolarusa.com",
+      "phone": "+1 (602) 889-1002",
+      "source": "Inbound Organic",
+      "serviceInterest": "Local SEO & Google Ads Lead Generation",
+      "budgetEst": 6000,
+      "score": 59,
+      "scoreTier": "WARM",
+      "scoreExplanation": "Solid commercial intent in competitive solar space, currently qualifying their CRM follow-up speed for high-intent inbound leads.",
+      "status": "New",
+      "lastContactDate": "2026-10-09",
+      "nextAction": "Send automated scheduling link for discovery call.",
+      "notes": "Intake form completed today at 8:15 AM."
+    },
+    {
+      "id": "lead-106",
+      "name": "Tariq Hameed",
+      "company": "Prime Fast Food Chain",
+      "email": "tariq@primefoods.com",
+      "phone": "+92 333 9988771",
+      "source": "Event",
+      "serviceInterest": "Influencer Marketing & Social Buzz",
+      "budgetEst": 2500,
+      "score": 32,
+      "scoreTier": "COLD",
+      "scoreExplanation": "Low budget relative to aggressive regional reach demands, unclear positioning, inconsistent past marketing campaigns.",
+      "status": "Contacted",
+      "lastContactDate": "2026-09-28",
+      "nextAction": "Nurture via agency newsletter and educational content.",
+      "notes": "Not a good fit for full retainer at present."
+    },
+    {
+      "id": "lead-107",
+      "name": "Dr. Katherine Hayes",
+      "company": "Hayes Aesthetics London",
+      "email": "katherine@hayesaesthetics.co.uk",
+      "phone": "+44 20 8923 1100",
+      "source": "Meta Ad",
+      "serviceInterest": "High-Ticket Aesthetic Patient Funnel & Meta Lead Gen",
+      "budgetEst": 9500,
+      "score": 93,
+      "scoreTier": "HOT",
+      "scoreExplanation": "Premier Harley Street cosmetic clinic seeking to scale bespoke facial rejuvenation packages (£2,500+ ticket). High monthly ad spend intent ($25k+), decision maker actively requesting demo.",
+      "status": "Qualified",
+      "lastContactDate": "2026-10-09",
+      "nextAction": "Present tailored high-ticket medical aesthetics acquisition blueprint.",
+      "notes": "Frustrated with previous agency generating unqualified coupon seekers rather than affluent private patients."
+    },
+    {
+      "id": "lead-108",
+      "name": "Marcus Sterling",
+      "company": "Sterling Horology Geneva",
+      "email": "m.sterling@sterlinghorology.ch",
+      "phone": "+41 22 730 4500",
+      "source": "Referral",
+      "serviceInterest": "Luxury Meta Ads & Pinterest Visual Acquisition",
+      "budgetEst": 11000,
+      "score": 90,
+      "scoreTier": "HOT",
+      "scoreExplanation": "Referred by Camilla Laurent (Aurelia Fine Jewels). Independent Swiss micro-brand watchmaker scaling international DTC orders ($4,500 average order value).",
+      "status": "Proposal",
+      "lastContactDate": "2026-10-08",
+      "nextAction": "Finalize Q4 holiday proposal deck with target 4.2x ROAS.",
+      "notes": "High visual assets ready. Looking for full-service creative direction and paid media execution."
+    },
+    {
+      "id": "lead-109",
+      "name": "Farhan Qureshi",
+      "company": "Nile Delta Organics",
+      "email": "farhan@niledeltaorganics.com",
+      "phone": "+20 2 3345 6789",
+      "source": "Inbound Organic",
+      "serviceInterest": "E-Commerce Google Shopping & Klaviyo Email Retention",
+      "budgetEst": 6500,
+      "score": 79,
+      "scoreTier": "WARM",
+      "scoreExplanation": "Artisanal Egyptian botanical teas & honey brand. Strong domestic following ($60k MRR), expanding export sales into the UK and UAE.",
+      "status": "New",
+      "lastContactDate": "2026-10-09",
+      "nextAction": "Schedule 20-minute preliminary discovery call with Zahida Khan.",
+      "notes": "Submitted agency intake form through organic search ranking for \"DTC food & beverage marketing agency\"."
+    },
+    {
+      "id": "lead-110",
+      "name": "Julian Thorne",
+      "company": "Quantix Cloud Security",
+      "email": "julian@quantixsec.io",
+      "phone": "+1 (415) 692-7714",
+      "source": "LinkedIn",
+      "serviceInterest": "B2B LinkedIn ABM & Demand Generation",
+      "budgetEst": 15000,
+      "score": 87,
+      "scoreTier": "HOT",
+      "scoreExplanation": "Series B cloud compliance startup with 35 SDRs. Needs pipeline acceleration to hit $10M ARR goal before next funding round.",
+      "status": "Negotiation",
+      "lastContactDate": "2026-10-07",
+      "nextAction": "Send revised master services agreement with dedicated Slack SLA.",
+      "notes": "CPO and Head of Demand Gen reviewed agency case study and approved budget allocation."
+    }
+  ],
+  "campaigns": [
+    {
+      "id": "cmp-201",
+      "name": "Lumina — Q4 Barrier Repair Serum Scale",
+      "clientId": "cli-001",
+      "clientName": "Lumina Skin Co",
+      "platform": "Meta Ads",
+      "objective": "Conversions",
+      "status": "Active",
+      "monthlyBudget": 14000,
+      "spentCurrentMonth": 9420,
+      "impressions": 482000,
+      "clicks": 12400,
+      "ctr": 2.57,
+      "cpc": 0.76,
+      "cpa": 34.2,
+      "conversions": 275,
+      "revenueGenerated": 32450,
+      "roas": 3.44,
+      "health": "Caution",
+      "aiObservation": {
+        "finding": "CPA increased 28% over the past 48 hours ($26.80 → $34.20). Creative fatigue detected on hero video hook.",
+        "recommendation": "Pause Ad Set 02 (Static Product) and rotate in 3 creator UGC unboxing cuts with the \"Derm-approved\" angle.",
+        "actionablePlan": "Deploy proposed UGC cuts already queued in Approval Center."
+      }
+    },
+    {
+      "id": "cmp-202",
+      "name": "Apex — Enterprise Treasury Demo Acquisition",
+      "clientId": "cli-002",
+      "clientName": "Apex Fintech Solutions",
+      "platform": "Google Ads",
+      "objective": "Lead Generation",
+      "status": "Active",
+      "monthlyBudget": 22000,
+      "spentCurrentMonth": 15300,
+      "impressions": 114000,
+      "clicks": 5800,
+      "ctr": 5.08,
+      "cpc": 2.64,
+      "cpa": 168,
+      "conversions": 91,
+      "revenueGenerated": 73400,
+      "roas": 4.8,
+      "health": "Optimal",
+      "aiObservation": {
+        "finding": "High-intent search keyword phrase \"automated treasury reconciliation API\" delivering 6.1x ROAS.",
+        "recommendation": "Budget headroom available. Increase daily spend cap by 15% to capture unmet search impression share.",
+        "actionablePlan": "Scale campaign budget from $730/day to $840/day."
+      }
+    },
+    {
+      "id": "cmp-203",
+      "name": "Nordic — Autumn Roast Subscription Growth",
+      "clientId": "cli-003",
+      "clientName": "Nordic Roastery Co",
+      "platform": "Meta Ads",
+      "objective": "ROAS Scaling",
+      "status": "Active",
+      "monthlyBudget": 9500,
+      "spentCurrentMonth": 6150,
+      "impressions": 310000,
+      "clicks": 9800,
+      "ctr": 3.16,
+      "cpc": 0.63,
+      "cpa": 19.5,
+      "conversions": 315,
+      "revenueGenerated": 32000,
+      "roas": 5.2,
+      "health": "Optimal",
+      "aiObservation": {
+        "finding": "Winning Scandinavian morning lifestyle Reel hook showing zero drop-off in first 4 seconds.",
+        "recommendation": "Top performing asset in entire agency portfolio this week. Expand lookalike audiences.",
+        "actionablePlan": "Deploy 2 additional variations of the winning script to sustain momentum."
+      }
+    },
+    {
+      "id": "cmp-204",
+      "name": "Solstice — Miami Executive Longevity Baseline",
+      "clientId": "cli-004",
+      "clientName": "Solstice Health Clinic",
+      "platform": "Google Ads",
+      "objective": "Conversions",
+      "status": "Active",
+      "monthlyBudget": 11000,
+      "spentCurrentMonth": 7800,
+      "impressions": 42000,
+      "clicks": 1650,
+      "ctr": 3.92,
+      "cpc": 4.72,
+      "cpa": 390,
+      "conversions": 20,
+      "revenueGenerated": 22600,
+      "roas": 2.9,
+      "health": "Action Required",
+      "aiObservation": {
+        "finding": "Landing page conversion rate dropped to 1.2% (down from 2.4% previous month). Mobile bounce rate 61%.",
+        "recommendation": "Immediate landing page audit required. Simplify the multi-step consultation scheduling widget.",
+        "actionablePlan": "Audit report and revised wireframe generated by ZAI SEO & UX Agent."
+      }
+    },
+    {
+      "id": "cmp-205",
+      "name": "Velox — High-Volume Freight Lane RFPs",
+      "clientId": "cli-005",
+      "clientName": "Velox Logistics & Freight",
+      "platform": "Google Ads",
+      "objective": "Lead Generation",
+      "status": "Active",
+      "monthlyBudget": 15000,
+      "spentCurrentMonth": 10400,
+      "impressions": 89000,
+      "clicks": 3400,
+      "ctr": 3.82,
+      "cpc": 3.06,
+      "cpa": 82.5,
+      "conversions": 126,
+      "revenueGenerated": 42640,
+      "roas": 4.1,
+      "health": "Optimal",
+      "aiObservation": {
+        "finding": "Refrigerated pharma lane ad group performing above target benchmark.",
+        "recommendation": "Maintain active pacing, test negative keyword exclusions for consumer parcel queries.",
+        "actionablePlan": "Added 42 negative keyword exclusions to prevent irrelevant clicks."
+      }
+    },
+    {
+      "id": "cmp-206",
+      "name": "Aurelia — Autumn Bridal Diamond Collection",
+      "clientId": "cli-006",
+      "clientName": "Aurelia Fine Jewels",
+      "platform": "Meta Ads",
+      "objective": "Conversions",
+      "status": "Active",
+      "monthlyBudget": 10500,
+      "spentCurrentMonth": 7200,
+      "impressions": 260000,
+      "clicks": 7100,
+      "ctr": 2.73,
+      "cpc": 1.01,
+      "cpa": 72,
+      "conversions": 100,
+      "revenueGenerated": 28080,
+      "roas": 3.9,
+      "health": "Optimal",
+      "aiObservation": {
+        "finding": "Bespoke ring appointment bookings increased 35% compared to baseline month.",
+        "recommendation": "Ensure Instagram direct message automation delivers instant calendar booking link.",
+        "actionablePlan": "Connected DM response flow in Content Studio."
+      }
+    },
+    {
+      "id": "cmp-207",
+      "name": "Lumina — Black Friday Early VIP Barrier Recovery Kit",
+      "clientId": "cli-001",
+      "clientName": "Lumina Skin Co",
+      "platform": "Meta Ads",
+      "objective": "ROAS Scaling",
+      "status": "Scheduled",
+      "monthlyBudget": 16000,
+      "spentCurrentMonth": 0,
+      "impressions": 0,
+      "clicks": 0,
+      "ctr": 0,
+      "cpc": 0,
+      "cpa": 0,
+      "conversions": 0,
+      "revenueGenerated": 0,
+      "roas": 0,
+      "health": "Optimal",
+      "aiObservation": {
+        "finding": "VIP early access waitlist landing page converting at 38% email submission rate.",
+        "recommendation": "Deploy Meta Lead Gen ads targeting past purchaser lookalike audiences to maximize list size before public BFCM.",
+        "actionablePlan": "Scheduled to activate automatically on October 25."
+      }
+    },
+    {
+      "id": "cmp-208",
+      "name": "Apex — 2026 Corporate Treasury Multi-Bank Guide",
+      "clientId": "cli-002",
+      "clientName": "Apex Fintech Solutions",
+      "platform": "Google Ads",
+      "objective": "Lead Generation",
+      "status": "Active",
+      "monthlyBudget": 16000,
+      "spentCurrentMonth": 11400,
+      "impressions": 74000,
+      "clicks": 3950,
+      "ctr": 5.34,
+      "cpc": 2.89,
+      "cpa": 142.5,
+      "conversions": 80,
+      "revenueGenerated": 68400,
+      "roas": 6,
+      "health": "Optimal",
+      "aiObservation": {
+        "finding": "Exact match keyword \"automated corporate cash management\" producing $142.50 cost per qualified enterprise demo.",
+        "recommendation": "Budget headroom allows 20% expansion without diminishing returns.",
+        "actionablePlan": "Scale ad spend pacing to capture remaining 24% search impression share."
+      }
+    },
+    {
+      "id": "cmp-209",
+      "name": "Nordic — Holiday Single-Origin Reserve Subscription",
+      "clientId": "cli-003",
+      "clientName": "Nordic Roastery Co",
+      "platform": "TikTok Ads",
+      "objective": "ROAS Scaling",
+      "status": "Active",
+      "monthlyBudget": 8000,
+      "spentCurrentMonth": 5200,
+      "impressions": 290000,
+      "clicks": 10400,
+      "ctr": 3.58,
+      "cpc": 0.5,
+      "cpa": 16.8,
+      "conversions": 310,
+      "revenueGenerated": 28100,
+      "roas": 5.4,
+      "health": "Optimal",
+      "aiObservation": {
+        "finding": "Sensory pour-over ASMR video with \"72-hour roast date\" hook shows outstanding completion rate (41%).",
+        "recommendation": "Test lookalike audience expanded to UK and Germany specialty coffee segments.",
+        "actionablePlan": "Produce 2 additional localized ad variations in Content Studio."
+      }
+    },
+    {
+      "id": "cmp-210",
+      "name": "Solstice — Executive Full-Body 3T MRI & Biomarker Diagnostic",
+      "clientId": "cli-004",
+      "clientName": "Solstice Health Clinic",
+      "platform": "Google Ads",
+      "objective": "Conversions",
+      "status": "Active",
+      "monthlyBudget": 14000,
+      "spentCurrentMonth": 9800,
+      "impressions": 48000,
+      "clicks": 1980,
+      "ctr": 4.12,
+      "cpc": 4.95,
+      "cpa": 350,
+      "conversions": 28,
+      "revenueGenerated": 37240,
+      "roas": 3.8,
+      "health": "Caution",
+      "aiObservation": {
+        "finding": "Strong appointment search intent, but desktop converts at 3.4% while mobile conversion lags at 1.2%.",
+        "recommendation": "Route mobile clicks directly to simplified 3-step concierge booking assessment.",
+        "actionablePlan": "Deploy new mobile appointment widget from CRO sprint."
+      }
+    },
+    {
+      "id": "cmp-211",
+      "name": "Velox — Refrigerated Pharma Cold Chain Direct RFP Rush",
+      "clientId": "cli-005",
+      "clientName": "Velox Logistics & Freight",
+      "platform": "Google Ads",
+      "objective": "Lead Generation",
+      "status": "Active",
+      "monthlyBudget": 12500,
+      "spentCurrentMonth": 8100,
+      "impressions": 75000,
+      "clicks": 2920,
+      "ctr": 3.89,
+      "cpc": 2.77,
+      "cpa": 76.4,
+      "conversions": 106,
+      "revenueGenerated": 35640,
+      "roas": 4.4,
+      "health": "Optimal",
+      "aiObservation": {
+        "finding": "Negative keyword exclusions eliminated low-margin parcel queries, lowering cost per qualified RFP from $98 to $76.40.",
+        "recommendation": "Maintain strict exact and phrase match parameters on refrigerated route ad groups.",
+        "actionablePlan": "Expand coverage to newly opened Dallas-Atlanta cold storage corridor."
+      }
+    }
+  ],
+  "approvals": [
+    {
+      "id": "appr-301",
+      "title": "Lumina Skin Co: Rotate Meta Ads Creatives (3 UGC Hooks)",
+      "description": "ZAI Ads Agent detected a 28% CPA increase on Lumina Skin Co. Proposes pausing fatigue ad set and activating 3 verified dermatologist-approved UGC video ads.",
+      "tier": "YELLOW",
+      "category": "CAMPAIGN",
+      "clientName": "Lumina Skin Co",
+      "clientId": "cli-001",
+      "createdAt": "2026-10-09 08:30 AM",
+      "requestedByAgent": "Ads Agent",
+      "status": "PENDING",
+      "proposedAction": {
+        "actionType": "ROTATE_AD_CREATIVES",
+        "details": "Pause AdSet #409 (Static Hero Serum). Activate AdSet #412 (UGC Clinical Barrier Proof 01, 02, 03).",
+        "impactSummary": "Projected to stabilize CPA from $34.20 back down to ~$26.50 over next 72 hours."
+      }
+    },
+    {
+      "id": "appr-302",
+      "title": "Nordic Roastery: Scale Google Search Daily Budget by +15%",
+      "description": "ZAI Strategy Agent recommends scaling daily ad spend on Nordic Roastery campaign \"Autumn Roast Subscription\" from $310/day to $355/day due to sustained 5.2x ROAS.",
+      "tier": "YELLOW",
+      "category": "BUDGET",
+      "clientName": "Nordic Roastery Co",
+      "clientId": "cli-003",
+      "createdAt": "2026-10-09 07:45 AM",
+      "requestedByAgent": "Strategy Agent",
+      "status": "PENDING",
+      "proposedAction": {
+        "actionType": "UPDATE_BUDGET_CAP",
+        "details": "Increase campaign budget cap by $45/day ($1,350/mo additional ad spend allocation within approved retainer limits).",
+        "impactSummary": "Captures an estimated 45 additional recurring subscribers at $19.50 CAC."
+      }
+    },
+    {
+      "id": "appr-303",
+      "title": "Apex Fintech: Send Monthly Performance Report to CFO",
+      "description": "ZAI Reporting Agent prepared the September Executive Monthly Report for David Chen and executive leadership at Apex Fintech.",
+      "tier": "YELLOW",
+      "category": "CLIENT_COMMS",
+      "clientName": "Apex Fintech Solutions",
+      "clientId": "cli-002",
+      "createdAt": "2026-10-08 05:15 PM",
+      "requestedByAgent": "Reporting Agent",
+      "status": "APPROVED",
+      "proposedAction": {
+        "actionType": "DISPATCH_CLIENT_REPORT",
+        "details": "Send finalized 14-page executive deck and summary email to d.chen@apexfintech.io.",
+        "impactSummary": "Delivers scheduled retainer deliverable on time; highlights 91 enterprise demos booked at 4.8x ROAS."
+      },
+      "auditLog": {
+        "reviewedAt": "04:17 PM",
+        "reviewedBy": "Zahida Khan (Agency Director)",
+        "decisionNote": "Approved for execution"
+      }
+    },
+    {
+      "id": "appr-304",
+      "title": "Publish LinkedIn Carousel: \"The Modern Treasury Liquidity Guide\"",
+      "description": "ZAI Content Agent drafted a high-authority 7-slide carousel for Apex Fintech thought leadership on corporate liquidity risk.",
+      "tier": "YELLOW",
+      "category": "CONTENT",
+      "clientName": "Apex Fintech Solutions",
+      "clientId": "cli-002",
+      "createdAt": "2026-10-09 06:10 AM",
+      "requestedByAgent": "Content Agent",
+      "status": "PENDING",
+      "proposedAction": {
+        "actionType": "SCHEDULE_SOCIAL_POST",
+        "details": "Schedule LinkedIn post for Tuesday, 10:00 AM EST targeting VP Finance & Corporate Treasurers.",
+        "impactSummary": "Supports organic outbound pipeline with high-credibility educational content."
+      }
+    },
+    {
+      "id": "appr-305",
+      "title": "Autonomous Competitor Keyword Tracking (Autonomous Run)",
+      "description": "ZAI Research Agent completed automated weekly SERP crawl of 45 competitor keywords across active clients.",
+      "tier": "GREEN",
+      "category": "SYSTEM",
+      "clientName": "Zahida Digital Marketing (Internal)",
+      "clientId": "internal",
+      "createdAt": "2026-10-09 04:00 AM",
+      "requestedByAgent": "Research Agent",
+      "status": "EXECUTED",
+      "proposedAction": {
+        "actionType": "AUTONOMOUS_DATA_REFRESH",
+        "details": "Crawl completed without external ad modification. 12 keyword rank improvements logged.",
+        "impactSummary": "Green tier action executed automatically under standard autonomous permissions."
+      }
+    },
+    {
+      "id": "appr-306",
+      "title": "Terminate Client Account & Purge Retainer Ledger",
+      "description": "Irreversible account removal requested. System policy marks this as RED tier: strictly human execution only.",
+      "tier": "RED",
+      "category": "SYSTEM",
+      "clientName": "Archived Demo Client",
+      "clientId": "archived-01",
+      "createdAt": "2026-10-07 02:00 PM",
+      "requestedByAgent": "Human Admin",
+      "status": "APPROVED",
+      "proposedAction": {
+        "actionType": "PERMANENT_ACCOUNT_DELETION",
+        "details": "Deletes all stored credentials, campaign audit history, and financial billing logs.",
+        "impactSummary": "Irreversible action. Requires Zahida manual authorization with double confirmation."
+      },
+      "auditLog": {
+        "reviewedAt": "04:08 PM",
+        "reviewedBy": "Zahida Khan (Agency Director)",
+        "decisionNote": "Approved for execution"
+      }
+    }
+  ],
+  "contentItems": [
+    {
+      "id": "cnt-401",
+      "clientId": "cli-001",
+      "clientName": "Lumina Skin Co",
+      "platform": "Instagram",
+      "contentType": "Reel",
+      "title": "The 3-Ingredient Barrier Fix (Derm Explained)",
+      "hook": "If your skin feels tight after washing, your moisture barrier is officially screaming for help.",
+      "caption": "Most people scrub harder when their skin feels congested, but 90% of the time, the real culprit is a broken lipid barrier.\n\nHere are 3 clinically proven active ingredients that actually rebuild it in 14 days:\n1. Bio-fermented squalane\n2. Dual ceramides (NP & EOP)\n3. Centella Asiatica isolate\n\nExperience the difference with Lumina Botanical Barrier Serum. Link in bio to claim your starter ritual.",
+      "body": "Script: Scene 1 shows close up of micellar water stripping skin. Scene 2 demonstrates calming milky texture of serum. Voiceover explains clinical 28-day repair data.",
+      "cta": "Tap link in bio to shop the Dermatologist-Verified Barrier Serum.",
+      "hashtags": [
+        "#CleanSkincare",
+        "#MoistureBarrier",
+        "#SkinBarrierRepair",
+        "#LuminaSkin",
+        "#SensitiveSkinCare"
+      ],
+      "creativeBrief": "Warm neutral tones, tactile macro texture shots of serum dropper, clean serif typography overlay.",
+      "scheduledDate": "2026-10-12",
+      "scheduledTime": "11:30 AM",
+      "status": "Review",
+      "approvalStatus": "Pending Approval",
+      "assignedTo": "Sara Malik"
+    },
+    {
+      "id": "cnt-402",
+      "clientId": "cli-002",
+      "clientName": "Apex Fintech Solutions",
+      "platform": "LinkedIn",
+      "contentType": "Carousel",
+      "title": "The 2026 CFO Treasury Playbook: Managing Multi-Bank Risk",
+      "hook": "Why are mid-market CFOs still logging into 6 different banking portals every single morning?",
+      "caption": "In 2026, manual treasury spreadsheets are not just slow—they represent a major corporate operational risk.\n\nHere is how leading corporate treasurers are automating real-time liquidity reconciliation:\n\n→ Slide 1: The hidden cost of multi-bank fragmentation\n→ Slide 2: Real-time API consolidation vs legacy SWIFT batch files\n→ Slide 3: Automated cash positioning and zero-balance accounts\n→ Slide 4: Real-world case study: 85% time saved on month-end close.\n\nSwipe through for the full framework.",
+      "body": "High-contrast navy and electric indigo slide deck with crisp infographics and executive quotes.",
+      "cta": "Download the full Corporate Liquidity Whitepaper (link in first comment).",
+      "hashtags": [
+        "#Fintech",
+        "#CorporateTreasury",
+        "#CFOInsights",
+        "#B2BSaaS",
+        "#TreasuryAutomation"
+      ],
+      "creativeBrief": "Minimalist enterprise aesthetic, high-contrast dark indigo slides, clear typographic hierarchy.",
+      "scheduledDate": "2026-10-14",
+      "scheduledTime": "09:00 AM",
+      "status": "Approved",
+      "approvalStatus": "Approved",
+      "assignedTo": "Tariq Aziz"
+    },
+    {
+      "id": "cnt-403",
+      "clientId": "cli-003",
+      "clientName": "Nordic Roastery Co",
+      "platform": "TikTok",
+      "contentType": "Reel",
+      "title": "Why Freshness Stops at Day 14 for Supermarket Coffee",
+      "hook": "If the coffee bag in your kitchen does not have a roast date stamped on it, it’s already dead.",
+      "caption": "Coffee isn’t wine. It loses its delicate floral and berry aromatics within weeks of roasting.\n\nHere is what happens when you brew coffee roasted 72 hours ago versus 6 months ago.\n\nTaste the difference with our single-origin Nordic roast subscription.",
+      "body": "Side by side extraction comparison on an espresso machine showing crema density and bloom.",
+      "cta": "Get your first bag free with your annual subscription. Tap the link.",
+      "hashtags": [
+        "#SpecialtyCoffee",
+        "#CoffeeTok",
+        "#HomeBarista",
+        "#NordicRoast",
+        "#AeroPress"
+      ],
+      "creativeBrief": "Moody natural Nordic kitchen lighting, authentic pouring sound (ASMR), minimalist aesthetic.",
+      "scheduledDate": "2026-10-15",
+      "scheduledTime": "04:00 PM",
+      "status": "Scheduled",
+      "approvalStatus": "Approved",
+      "assignedTo": "Sara Malik"
+    },
+    {
+      "id": "cnt-404",
+      "clientId": "cli-006",
+      "clientName": "Aurelia Fine Jewels",
+      "platform": "Instagram",
+      "contentType": "Post",
+      "title": "The Art of the Bespoke Solitaire: Behind the Mayfair Atelier",
+      "hook": "True luxury is never mass produced. It is shaped by hand, one millimetre at a time.",
+      "caption": "A glimpse inside our Mayfair atelier as our master setter works on a 2.4-carat antique cushion cut diamond set in recycled 18k yellow gold.\n\nEvery Aurelia piece begins with an intimate private consultation—in person or virtually.\n\nBooking inquiries for November are now open.",
+      "body": "Macro lens camera capture of bench jeweler polishing the prongs under focused warm studio beam.",
+      "cta": "Book your bespoke consultation through the link in our bio.",
+      "hashtags": [
+        "#FineJewelry",
+        "#BespokeEngagementRing",
+        "#MayfairLondon",
+        "#ArtisanalLuxury"
+      ],
+      "creativeBrief": "Cinematic luxury photography, warm golden hour reflections, discreet serif typography.",
+      "scheduledDate": "2026-10-17",
+      "scheduledTime": "01:00 PM",
+      "status": "Draft",
+      "approvalStatus": "Not Requested",
+      "assignedTo": "Ayesha Tariq"
+    },
+    {
+      "id": "cnt-405",
+      "clientId": "cli-002",
+      "clientName": "Apex Fintech Solutions",
+      "platform": "LinkedIn",
+      "contentType": "Carousel",
+      "title": "The Hidden 3.2% Margin Bleed: Why Spreadsheets are Killing Mid-Market Treasury in 2026",
+      "hook": "If your treasury team spends more than 4 hours every Monday consolidating bank balances in Excel, you are leaking enterprise alpha.",
+      "caption": "Mid-market CFOs are managing multi-entity accounts across an average of 4.8 commercial banks.\n\nHere is what manual reconciliation actually costs you:\n→ 1. Idle cash drag (up to 35 bps in lost overnight interest)\n→ 2. Wire fraud vulnerability during manual batch uploads\n→ 3. Blind spots during month-end closing cycles\n\nSwipe through for the 2026 automated cash positioning architecture.",
+      "body": "7-slide high-contrast slate & cobalt executive carousel deck detailing multi-bank API aggregation, automated zero-balance sweeps, and real-time ledger sync.",
+      "cta": "Download the complete 14-page CFO Treasury Architecture Guide (link in first comment).",
+      "hashtags": [
+        "#CorporateTreasury",
+        "#CFOStrategy",
+        "#FintechInnovation",
+        "#CashManagement",
+        "#B2BSaaS"
+      ],
+      "creativeBrief": "Deep navy background (#0A2540) with electric cobalt callouts (#635BFF), clean sans typography, zero fluff.",
+      "scheduledDate": "2026-10-18",
+      "scheduledTime": "10:00 AM",
+      "status": "Approved",
+      "approvalStatus": "Approved",
+      "assignedTo": "Bilal Farooq"
+    },
+    {
+      "id": "cnt-406",
+      "clientId": "cli-001",
+      "clientName": "Lumina Skin Co",
+      "platform": "TikTok",
+      "contentType": "Reel",
+      "title": "Dermatologist Reacts: 3 Skincare Mistakes Destroying Your Barrier",
+      "hook": "Stop using physical scrubs on sensitized red patches. Here is why your skin barrier is actually breaking down.",
+      "caption": "When your moisture barrier is broken, even water burns.\n\n3 things to stop doing immediately:\n❌ Foaming stripping cleansers twice a day\n❌ Stacking 4 different active exfoliating acids\n❌ Skipping lipid replenishment ceramides\n\nReset your skin in 14 days with clinical bio-fermented actives.",
+      "body": "Split screen format: Left side shows creator attempting harsh scrub, right side shows board-certified dermatologist explaining lipid bilayer integrity with 3D skin model graphic.",
+      "cta": "Tap link in bio to take our 60-second Skin Barrier Quiz.",
+      "hashtags": [
+        "#BarrierRepair",
+        "#DermatologistTips",
+        "#CleanBeauty",
+        "#SensitiveSkinRoutine",
+        "#LuminaSkin"
+      ],
+      "creativeBrief": "High energy, candid clinical lighting, clear text subtitles, sound bite overlay.",
+      "scheduledDate": "2026-10-19",
+      "scheduledTime": "03:30 PM",
+      "status": "Review",
+      "approvalStatus": "Pending Approval",
+      "assignedTo": "Sara Malik"
+    },
+    {
+      "id": "cnt-407",
+      "clientId": "cli-003",
+      "clientName": "Nordic Roastery Co",
+      "platform": "Instagram",
+      "contentType": "Carousel",
+      "title": "From Sidamo to Your Cup: The 72-Hour Flavour Window That Changes Everything",
+      "hook": "Coffee does not spoil like milk, but it dies like bread. Here is the exact timeline of bean aromatics.",
+      "caption": "Day 1–3: Degassing CO2 (too harsh for espresso)\nDay 4–14: The Peak Flavour Window (wild florals, crisp acidity, complex berry notes)\nDay 30+: Stale oxidation and flattened sweetness.\n\nThis is why every single Nordic Roastery bag is stamped with an exact roast date—never a meaningless \"best before\" year.",
+      "body": "Macro photography of coffee bloom bubbling under hot water (degassing), flavor wheel wheel comparison graphic, and roastery cupping notes from head roaster Henrik.",
+      "cta": "Experience peak roast freshness delivered to your door. Link in bio to join the Coffee Club.",
+      "hashtags": [
+        "#SpecialtyCoffee",
+        "#RoastDateMatters",
+        "#NordicRoast",
+        "#PourOverCoffee",
+        "#HomeBarista"
+      ],
+      "creativeBrief": "Minimalist Scandinavian aesthetic, warm muted tones, textured paper background styling.",
+      "scheduledDate": "2026-10-20",
+      "scheduledTime": "08:30 AM",
+      "status": "Scheduled",
+      "approvalStatus": "Approved",
+      "assignedTo": "Sara Malik"
+    },
+    {
+      "id": "cnt-408",
+      "clientId": "cli-004",
+      "clientName": "Solstice Health Clinic",
+      "platform": "Blog",
+      "contentType": "Article",
+      "title": "Why Standard Annual Blood Panels Miss 70% of Early Metabolic Strain",
+      "hook": "A \"normal\" fasting glucose test on your annual checkup doesn’t mean your metabolic machinery is thriving.",
+      "caption": "Standard reference ranges were designed to detect disease, not optimize longevity.\n\nIn this comprehensive clinical guide, Dr. Elena Rostova breaks down the 5 advanced biomarkers high-performing executives should track annually:\n1. Fasting Insulin vs HOMA-IR\n2. ApoB & LDL Particle Count\n3. hs-CRP (micro-vascular inflammation)\n4. Full-body 3T MRI volumetric scan\n5. VO2 Max and mitochondrial efficiency.",
+      "body": "2,200-word comprehensive deep-dive medical article with interactive biomarker reference chart and downloadable executive guide.",
+      "cta": "Book your comprehensive 100-biomarker Longevity Baseline at our Miami clinic.",
+      "hashtags": [
+        "#LongevityMedicine",
+        "#ExecutiveHealth",
+        "#PreventiveHealth",
+        "#Biohacking",
+        "#MiamiWellness"
+      ],
+      "creativeBrief": "Editorial medical journal layout, authoritative infographics, physician author bio with medical credentials.",
+      "scheduledDate": "2026-10-21",
+      "scheduledTime": "11:00 AM",
+      "status": "Review",
+      "approvalStatus": "Pending Approval",
+      "assignedTo": "Tariq Aziz"
+    },
+    {
+      "id": "cnt-409",
+      "clientId": "cli-005",
+      "clientName": "Velox Logistics & Freight",
+      "platform": "LinkedIn",
+      "contentType": "Article",
+      "title": "Cold-Chain Integrity: How IoT Temperature Telemetry Eliminates Cargo Spoilage Disputes",
+      "hook": "A 2-degree temperature deviation over 48 hours can render a $2.5M biologic pharmaceutical shipment worthless.",
+      "caption": "In high-stakes pharmaceutical and perishable cold chain logistics, trust without real-time data is a liability.\n\nHere is how Velox Logistics engineered a zero-spoilage freight network:\n• Sub-second IoT wireless temperature sensor nodes inside refrigerated trailers\n• Automated dual-compressor failover systems\n• Live client telemetry dashboard with 100% auditable FDA FSMA compliance logs.",
+      "body": "Technical freight operational analysis comparing legacy USB data-logger probes against real-time 5G cloud telematics.",
+      "cta": "Request a dedicated refrigerated route quote or cold-chain compliance audit.",
+      "hashtags": [
+        "#ColdChainLogistics",
+        "#PharmaSupplyChain",
+        "#FreightTransport",
+        "#IoTSupplyChain",
+        "#LogisticsTech"
+      ],
+      "creativeBrief": "Industrial precision photography, crisp technical diagrams, clean dark blue and cobalt palette.",
+      "scheduledDate": "2026-10-22",
+      "scheduledTime": "09:00 AM",
+      "status": "Approved",
+      "approvalStatus": "Approved",
+      "assignedTo": "Bilal Farooq"
+    },
+    {
+      "id": "cnt-410",
+      "clientId": "cli-006",
+      "clientName": "Aurelia Fine Jewels",
+      "platform": "Instagram",
+      "contentType": "Reel",
+      "title": "Hand-Carving an Antique Cushion Diamond Bezel in Mayfair",
+      "hook": "There is a reason mass-produced jewelry feels hollow. Look closely at the hand-cut collet.",
+      "caption": "Every bezel we forge in our Mayfair atelier is custom shaped to the unique cut of the individual diamond.\n\nNo pre-cast molds. No shortcuts.\n\nWitness master jeweler Arthur setting a 2.85-carat antique cushion in 18k buttery yellow gold.\n\nPrivate atelier appointments available for November & December proposals.",
+      "body": "Cinematic slow-motion footage of goldsmith hand-sawing gold bezel, burnishing the edge, and setting the stone with microscopic precision. Authentic studio acoustics (ASMR hammer & metal scrape).",
+      "cta": "Book your private Mayfair consultation via link in bio.",
+      "hashtags": [
+        "#BespokeEngagementRing",
+        "#FineJewelry",
+        "#MayfairAtelier",
+        "#HandcraftedLuxury",
+        "#AntiqueDiamond"
+      ],
+      "creativeBrief": "Warm cinematic lighting, studio micro-detail lens, elegant classical music bed.",
+      "scheduledDate": "2026-10-23",
+      "scheduledTime": "01:30 PM",
+      "status": "Scheduled",
+      "approvalStatus": "Approved",
+      "assignedTo": "Ayesha Tariq"
+    },
+    {
+      "id": "cnt-411",
+      "clientId": "cli-001",
+      "clientName": "Lumina Skin Co",
+      "platform": "Email",
+      "contentType": "Broadcast",
+      "title": "VIP Early Access: The Barrier Recovery Ritual (24-Hour Secret Link)",
+      "hook": "Before we open our holiday allocations to the public, this private link is exclusively yours.",
+      "caption": "Dear VIP,\n\nLast year, our Winter Barrier Kit sold out in 36 hours.\n\nBecause our botanical squalane requires a 28-day bio-fermentation cycle, each seasonal batch is strictly limited.\n\nAs a valued subscriber, your private access window begins right now with an exclusive complimentary barrier balm gift included with every kit.\n\nTap below to claim your reserve.",
+      "body": "Luxury minimalist email layout featuring clean product bottle hero shot, ingredients certificate snippet, and one-click checkout button with pre-applied VIP code.",
+      "cta": "Claim Your Early VIP Holiday Reserve (24-Hour Window).",
+      "hashtags": [
+        "#VIPAccess",
+        "#LuminaSkin",
+        "#CleanBeautyRitual"
+      ],
+      "creativeBrief": "Soft warm beige (#F7F4F0) background, sophisticated serif headlines, generous whitespace, mobile-optimized button.",
+      "scheduledDate": "2026-10-24",
+      "scheduledTime": "10:00 AM",
+      "status": "Review",
+      "approvalStatus": "Pending Approval",
+      "assignedTo": "Ayesha Tariq"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "tsk-501",
+      "title": "Deploy revised UGC creatives for Lumina Skin Co Meta Ads",
+      "description": "Rotate out the fatigued static serum ads and launch 3 new UGC cuts approved in the Approval Center.",
+      "priority": "Urgent",
+      "status": "In Progress",
+      "assignee": "Ayesha Tariq",
+      "deadline": "2026-10-10",
+      "clientId": "cli-001",
+      "clientName": "Lumina Skin Co",
+      "sourceStrategy": "Q4 Performance Scaling Blueprint"
+    },
+    {
+      "id": "tsk-502",
+      "title": "Conduct Mobile UX audit for Solstice Health booking flow",
+      "description": "Diagnose the 61% mobile bounce rate and draft wireframe redesign for appointment scheduling widget.",
+      "priority": "Urgent",
+      "status": "To Do",
+      "assignee": "Tariq Aziz",
+      "deadline": "2026-10-11",
+      "clientId": "cli-004",
+      "clientName": "Solstice Health Clinic",
+      "sourceStrategy": "Local Conversion Rate Optimization"
+    },
+    {
+      "id": "tsk-503",
+      "title": "Finalize monthly analytics report deck for Apex Fintech",
+      "description": "Compile Q3 Google Search ROAS, LinkedIn demo conversions, and cost per enterprise lead.",
+      "priority": "High",
+      "status": "Review",
+      "assignee": "Bilal Farooq",
+      "deadline": "2026-10-11",
+      "clientId": "cli-002",
+      "clientName": "Apex Fintech Solutions",
+      "sourceStrategy": "Enterprise Retainer Reporting"
+    },
+    {
+      "id": "tsk-504",
+      "title": "Prepare 30-day Content Calendar for Nordic Roastery",
+      "description": "Draft 16 short-form video hooks focusing on holiday subscription gifting and Nordic origin stories.",
+      "priority": "Medium",
+      "status": "In Progress",
+      "assignee": "Sara Malik",
+      "deadline": "2026-10-14",
+      "clientId": "cli-003",
+      "clientName": "Nordic Roastery Co",
+      "sourceStrategy": "Q4 Subscription Gifting Sprint"
+    },
+    {
+      "id": "tsk-505",
+      "title": "Keyword gap research for Velox Logistics refrigerated routes",
+      "description": "Identify commercial keywords where competitors CH Robinson and Echo Global outrank Velox.",
+      "priority": "Medium",
+      "status": "Completed",
+      "assignee": "Bilal Farooq",
+      "deadline": "2026-10-08",
+      "clientId": "cli-005",
+      "clientName": "Velox Logistics & Freight",
+      "sourceStrategy": "B2B SEO Dominance Strategy"
+    },
+    {
+      "id": "tsk-506",
+      "title": "Onboarding audit for new inbound lead Kashif (Zaytoun Oils)",
+      "description": "Run preliminary competitor ad review and formulate 90-day growth projection model.",
+      "priority": "High",
+      "status": "To Do",
+      "assignee": "Ayesha Tariq",
+      "deadline": "2026-10-12",
+      "sourceStrategy": "Agency Sales Enablement"
+    },
+    {
+      "id": "tsk-507",
+      "title": "Configure GA4 Server-Side Conversion API (CAPI) for Lumina Skin Co",
+      "description": "Ensure 100% ad signal capture and mitigate iOS 14.5+ tracking loss through Cloudflare Server-Side CAPI Gateway.",
+      "priority": "Urgent",
+      "status": "In Progress",
+      "assignee": "Bilal Farooq",
+      "deadline": "2026-10-11",
+      "clientId": "cli-001",
+      "clientName": "Lumina Skin Co",
+      "sourceStrategy": "Omnichannel DTC Scaling & Creative Fatigue Defense"
+    },
+    {
+      "id": "tsk-508",
+      "title": "A/B Test 4 Hook Variations for Nordic Roastery Holiday Gift Bundle",
+      "description": "Launch test ad sets on TikTok Spark Ads comparing \"Sensory ASMR Pour\" vs \"Day 14 Freshness Warning\" angles.",
+      "priority": "High",
+      "status": "To Do",
+      "assignee": "Sara Malik",
+      "deadline": "2026-10-13",
+      "clientId": "cli-003",
+      "clientName": "Nordic Roastery Co",
+      "sourceStrategy": "Seasonal Subscription LTV Scaling & Gifting Funnel"
+    },
+    {
+      "id": "tsk-509",
+      "title": "Build LinkedIn Account-Based Retargeting Audience for 450 Mid-Market Tech CFOs",
+      "description": "Upload scrubbed CSV matched list into LinkedIn Campaign Manager and launch Document Ad sequence.",
+      "priority": "Urgent",
+      "status": "To Do",
+      "assignee": "Ayesha Tariq",
+      "deadline": "2026-10-12",
+      "clientId": "cli-002",
+      "clientName": "Apex Fintech Solutions",
+      "sourceStrategy": "B2B Account-Based Demand Engine"
+    },
+    {
+      "id": "tsk-510",
+      "title": "Implement Mobile Sticky-Booking CTA Widget on Solstice Health Clinic",
+      "description": "Replace cumbersome 9-step intake form with streamlined 3-step longevity qualification assessment to solve 61% bounce rate.",
+      "priority": "Urgent",
+      "status": "In Progress",
+      "assignee": "Tariq Aziz",
+      "deadline": "2026-10-11",
+      "clientId": "cli-004",
+      "clientName": "Solstice Health Clinic",
+      "sourceStrategy": "High-Ticket Longevity Patient Acquisition & Mobile CRO Blueprint"
+    },
+    {
+      "id": "tsk-511",
+      "title": "Produce 8 Creator UGC Briefs for Aurelia Fine Jewels Winter Proposal Campaign",
+      "description": "Detail exact macro lighting requirements, hand modeling instructions, and unboxing script for bespoke engagement rings.",
+      "priority": "Medium",
+      "status": "Review",
+      "assignee": "Sara Malik",
+      "deadline": "2026-10-15",
+      "clientId": "cli-006",
+      "clientName": "Aurelia Fine Jewels",
+      "sourceStrategy": "Mayfair Bespoke Bridal & Private Concierge Strategy"
+    },
+    {
+      "id": "tsk-512",
+      "title": "Conduct In-Depth SERP Volatility Audit after Google Core Algorithm Update",
+      "description": "Monitor commercial refrigerated route keyword positions and verify schema structured data integrity on veloxfreight.com.",
+      "priority": "High",
+      "status": "Completed",
+      "assignee": "Bilal Farooq",
+      "deadline": "2026-10-09",
+      "clientId": "cli-005",
+      "clientName": "Velox Logistics & Freight",
+      "sourceStrategy": "Enterprise Cold-Chain SEO Route Moat & Tender Capture"
+    },
+    {
+      "id": "tsk-513",
+      "title": "Draft Zaytoun Oils 60-Day Omnichannel Brand Launch Strategy Deck",
+      "description": "Prepare complete proposal for Kashif Mehmood covering influencer seeding, Meta Advantage+ budget, and Shopify VIP waitlist architecture.",
+      "priority": "High",
+      "status": "In Progress",
+      "assignee": "Zahida Khan",
+      "deadline": "2026-10-12",
+      "sourceStrategy": "Single-Estate Cold-Pressed Olive Oil Heritage Launch"
+    },
+    {
+      "id": "tsk-514",
+      "title": "Optimize PMax Asset Groups with High-Resolution Video Assets",
+      "description": "Replace automated low-res video slides with custom-cut 15-second vertical video assets for Google Performance Max campaigns.",
+      "priority": "Medium",
+      "status": "To Do",
+      "assignee": "Tariq Aziz",
+      "deadline": "2026-10-16",
+      "clientId": "cli-002",
+      "clientName": "Apex Fintech Solutions",
+      "sourceStrategy": "Enterprise Retainer Performance Tuning"
+    }
+  ],
+  "knowledgeDocs": [
+    {
+      "id": "kb-001",
+      "title": "Standard Agency Retainer Packages & Pricing Grid (2026)",
+      "category": "Pricing Framework",
+      "summary": "Core pricing tiers for DTC Performance, B2B Growth Engine, and Full Omnichannel Retainer.",
+      "lastUpdated": "2026-09-15",
+      "fileType": "PDF",
+      "contentSnippet": "Standard Retainer Tiers for Zahida Digital Marketing:\n1. STARTER PERFORMANCE ($3,500/mo): Up to $15k ad spend management. Single platform (Meta or Google). 8 creative deliverables/mo. Bi-weekly reporting.\n2. GROWTH ENGINE ($6,500/mo): Up to $40k ad spend. Dual platforms (Meta + Google or TikTok). 16 creative deliverables/mo. Dedicated Slack channel. Weekly strategy sync.\n3. ENTERPRISE OMNICHANNEL ($9,500 - $14,000/mo): Unlimited managed ad spend up to $150k. Full-funnel omnichannel (Paid ads + SEO + Content Studio + Email automation). 32 creative assets/mo. Executive steering with Zahida."
+    },
+    {
+      "id": "kb-002",
+      "title": "SOP: 3-Tier Creative Testing & Fatigue Mitigation Framework",
+      "category": "SOP",
+      "summary": "Standard operating procedure for identifying ad fatigue, CPA spikes, and rapid UGC iteration.",
+      "lastUpdated": "2026-08-20",
+      "fileType": "MARKDOWN",
+      "contentSnippet": "Creative Testing Protocol:\n- Phase 1 (Hook Discovery): Test 5 distinct 3-second hooks against identical body copy with $50/day micro-budgets.\n- Phase 2 (Angle Validation): Scale the top 2 hooks by testing 3 visual body variations (UGC vs Founder story vs Clinical proof).\n- Phase 3 (Scaling Ad Sets): Migrate winning combination to CBO (Advantage+ Budget) with daily budget ≥ 5x target CPA.\n- Fatigue Trigger: If frequency exceeds 3.2 and CPA rises > 20% over 7 days, trigger creative rotation workflow in ZAI Approval Center immediately."
+    },
+    {
+      "id": "kb-003",
+      "title": "Client Communication & Escalation Protocol",
+      "category": "SOP",
+      "summary": "Response time standards, quarterly business review preparation, and client health escalation.",
+      "lastUpdated": "2026-09-01",
+      "fileType": "DOCX",
+      "contentSnippet": "Standard Service Level Agreements (SLAs):\n- Urgent Slack inquiries: Response within 45 minutes during business hours (9am - 6pm PKT / EST).\n- Non-urgent tasks: Logged in Task Board within 4 business hours.\n- Client health score drops below 70: Automatic alert triggered to Zahida Khan. Account manager must schedule a 15-minute alignment call within 48 hours with a corrective action plan."
+    },
+    {
+      "id": "kb-004",
+      "title": "B2B Enterprise Lead Generation Playbook (Fintech & Logistics)",
+      "category": "Media Playbook",
+      "summary": "Account-Based Marketing (ABM) structure for high-contract-value B2B tech clients.",
+      "lastUpdated": "2026-07-12",
+      "fileType": "PDF",
+      "contentSnippet": "B2B Campaign Architecture:\n- Tier 1: Target account list matched via LinkedIn Matched Audiences (min 300 accounts, seniority VP+).\n- Tier 2: Search intent capture on Google Ads targeting high-commercial software keywords with exact match only.\n- Tier 3: Retargeting landing page visitors with high-authority case studies and founder podcasts."
+    },
+    {
+      "id": "kb-005",
+      "title": "Meta Ads Advantage+ Shopping & Creative Diversification SOP (2026 Edition)",
+      "category": "Media Playbook",
+      "summary": "Standard operating procedure for scaling Advantage+ campaigns without budget cannibalization.",
+      "lastUpdated": "2026-10-02",
+      "fileType": "MARKDOWN",
+      "contentSnippet": "Advantage+ Shopping Campaign (ASC) Guidelines:\n1. Account Structure: Maintain 1 consolidated ASC per target geo (e.g. US/CA) alongside 1 dynamic creative testing ad set (DCT).\n2. Existing Customer Cap: Set existing customer budget cap between 7% and 12% to prevent the algorithm from falsely claiming organic repurchase attribution.\n3. Asset Diversification: Every active ASC must contain at least:\n   - 3 Creator UGC Problem/Solution videos (9:16 vertical)\n   - 2 Static clinical proof / ingredient breakdown infographics (1:1 and 4:5)\n   - 1 High-contrast product catalog carousel.\n4. Creative Refresh Cadence: Inject 2 new validated creative winners from testing sets every 10–14 days."
+    },
+    {
+      "id": "kb-006",
+      "title": "High-Ticket Local Lead Gen & 5-Minute Speed-to-Lead Protocol",
+      "category": "SOP",
+      "summary": "Operational blueprint for converting private medical, legal, and luxury local inquiries into confirmed consultations.",
+      "lastUpdated": "2026-09-28",
+      "fileType": "PDF",
+      "contentSnippet": "Speed-to-Lead Directives:\n- The 5-Minute Golden Window: Inbound leads contacted within 5 minutes are 21x more likely to enter the sales pipeline than leads contacted after 30 minutes.\n- Automated Multichannel Cadence:\n  * 00:30s: Immediate personalized SMS from dedicated concierge with booking link.\n  * 01:00m: Branded welcome email with physician credentials and clinic video walkthrough.\n  * 05:00m: Outbound phone touch from patient coordinator if appointment not yet selected.\n- Qualification Criteria: Always verify decision timeline, location proximity, and budget alignment before scheduling private physician time."
+    },
+    {
+      "id": "kb-007",
+      "title": "Email Marketing Lifecycle Architecture: 7 Essential Klaviyo Flows",
+      "category": "Template",
+      "summary": "Master retention framework responsible for driving 25%–35% of total e-commerce revenue on autopilot.",
+      "lastUpdated": "2026-09-18",
+      "fileType": "DOCX",
+      "contentSnippet": "The 7 Mandatory Retention Flows:\n1. High-Converting Welcome Series (4 emails): Brand ethos → Social proof & reviews → Founder story → First-purchase VIP incentive.\n2. High-Intent Cart Abandonment (3 emails): Plain text reminder → Objection handling FAQ → Time-sensitive reserve hold.\n3. Browse Abandonment: Dynamic product viewed reminder with related customer testimonials.\n4. Post-Purchase Ritual & Education (Day 3, 7, 14): Video tutorial on usage instructions, expectations, and customer support line.\n5. Replenishment & Subscription Re-Order: Timed to consumption cadence (e.g. Day 25 for 30-day supply).\n6. VIP Sunset & Re-Engagement: Identify dormant subscribers at 60 days with exclusive survey or gift offer.\n7. Win-Back Campaign: Aggressive incentive offer for churned subscribers before list cleaning."
+    },
+    {
+      "id": "kb-008",
+      "title": "Agency Client Onboarding & First 30-Day \"Quick Win\" Roadmap SOP",
+      "category": "SOP",
+      "summary": "Structured 30-day timeline to ensure new retainer clients experience immediate measurable value and confidence.",
+      "lastUpdated": "2026-09-10",
+      "fileType": "PDF",
+      "contentSnippet": "First 30-Day Milestones:\n- Days 1–3 (Audit & Access): Gather ad manager, Google Analytics 4, Shopify/CRM credentials. Complete tracking integrity check.\n- Days 4–7 (Strategy Steering): Present 90-day growth projection model and agree upon primary North Star KPI with client.\n- Days 8–14 (Immediate Quick Wins): Fix tracking discrepancies, add negative keyword exclusions, prune fatigued ads, deploy top-priority CRO adjustments.\n- Days 15–21 (First Campaign Launch): Launch newly produced creative assets and campaign architecture.\n- Day 30 (First Monthly Review): Deliver structured executive performance deck answering what happened, why, and next quarter scaling plan."
+    },
+    {
+      "id": "kb-009",
+      "title": "Content Repurposing Matrix: 1 Long-Form Hero Asset into 12 Micro-Deliverables",
+      "category": "Media Playbook",
+      "summary": "System for turning 1 monthly podcast or executive interview into an entire omnichannel content calendar.",
+      "lastUpdated": "2026-08-30",
+      "fileType": "MARKDOWN",
+      "contentSnippet": "Repurposing Workflow:\n- 1 Long-Form Hero Recording (30 min video/podcast) yields:\n  * 3 TikTok/Reels short clips with viral hook edits.\n  * 2 High-authority LinkedIn text and carousel posts.\n  * 1 Comprehensive SEO blog article for website domain authority.\n  * 1 Segmented email newsletter broadcast to customer database.\n  * 4 Tweet/Threads summary snippets for quick engagement.\n  * 1 Gated PDF checklist or executive summary asset."
+    },
+    {
+      "id": "kb-010",
+      "title": "Google Ads Search Intent & Negative Keyword Curation Framework",
+      "category": "Media Playbook",
+      "summary": "Standard operating manual for eliminating wasted ad spend and maximizing search impression share.",
+      "lastUpdated": "2026-09-05",
+      "fileType": "PDF",
+      "contentSnippet": "Search Intent Rules:\n1. Match Type Discipline: Never launch broad match keywords without extensive negative keyword lists and proven conversion tracking history. Prefer Exact [keyword] and Phrase \"keyword\".\n2. Negative Keyword Categories:\n   - Employment & Career: \"jobs\", \"salary\", \"internship\", \"hiring\", \"resume\"\n   - Information Seeking: \"free\", \"how to make\", \"DIY\", \"course\", \"tutorial\", \"wikipedia\"\n   - Low-Intent Bargain: \"cheap\", \"free download\", \"discount code\", \"craigslist\", \"reddit\"\n3. Weekly Search Query Scrub: Review search term reports every Monday and add irrelevant queries to shared agency master negative list."
+    }
+  ]
+}
